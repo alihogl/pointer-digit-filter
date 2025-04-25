@@ -23,4 +23,5 @@ This is a straightforward C program implemented to effectively filter out digits
 3. Each digit is removed when maximum counts exceeds the expected amount.
 4. The number is created then printed after the filtration has taken place. 
 
-![1](https://github.com/user-attachments/assets/07e5dc47-3895-44f5-b5d2-892295293679)
+![2](https://github.com/user-attachments/assets/01484364-de1a-4ae4-b40d-2c3930602c5f)
+
